@@ -1,0 +1,11 @@
+.mains{
+    display: flex;
+    gap: 24px;
+    margin: 6%;
+}
+.maincontainer{
+    display: flex;
+}
+.para{
+    margin-left: 44%;
+}

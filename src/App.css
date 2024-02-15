@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins:wght@300&family=REM:wght@300&display=swap');
+
+
+button{
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 12px;
+}

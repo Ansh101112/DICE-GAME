@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins:wght@300&family=REM:wght@300&display=swap');
+
+.main{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    font-size: 82px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+    text-align: center;
+    margin-left: 2%;
+   
+}
+p{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 1%;
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins:wght@300&family=REM:wght@300&display=swap');
+
+.main{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.image{
+    height: 37%;
+    margin-left: 3%;
+    width: 40%;
+    margin: 9%;
+    background: transparent;
+}
+
+.text{
+    font-family: 'Poppins', sans-serif;
+    white-space: nowrap;
+
+
+}
+.butn{
+    background-color: black;
+    font-size: large;
+    cursor: pointer;
+    padding: 12px;
+    gap: 12px;
+    margin: 2px auto;
+
+}

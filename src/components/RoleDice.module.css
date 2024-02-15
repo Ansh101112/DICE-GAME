@@ -1,0 +1,25 @@
+.imgbox{
+    /* margin-left: 37%; */
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+    flex-direction: column;
+ 
+}
+img{
+    cursor: pointer;
+}
+.rolling {
+    animation: rollAnimation 0.5s ease-in-out;
+  }
+  
+  @keyframes rollAnimation {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
